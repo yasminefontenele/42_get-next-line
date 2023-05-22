@@ -27,3 +27,9 @@ static variable is a variable that retains its value throughout the program's ex
 - The value of a static variable persists between function calls.
 - Are typically allocated in the data segment of memory. They occupy memory for the entire duration of the program, regardless of whether they are currently in use or not.
 - Are not visible or accessible outside the block where they are defined. They are private to the function or block in which they are declared.
+
+
+## 💡Tips
+[**coder get_next_line**](https://www.youtube.com/watch?v=xgDSXNOHTIA)
+[**get_next_line**](https://www.youtube.com/watch?v=-Mt2FdJjVno)
+[**one more**](https://www.youtube.com/watch?v=5hvjwHZFwi0)
