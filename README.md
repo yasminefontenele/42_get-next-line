@@ -30,6 +30,6 @@ static variable is a variable that retains its value throughout the program's ex
 
 
 ## 💡Tips
-[**coder get_next_line**](https://www.youtube.com/watch?v=xgDSXNOHTIA)
-[**get_next_line**](https://www.youtube.com/watch?v=-Mt2FdJjVno)
-[**one more**](https://www.youtube.com/watch?v=5hvjwHZFwi0)
+- [**coder get_next_line**](https://www.youtube.com/watch?v=xgDSXNOHTIA).
+- [**get_next_line**](https://www.youtube.com/watch?v=-Mt2FdJjVno).
+- [**one more**](https://www.youtube.com/watch?v=5hvjwHZFwi0).
