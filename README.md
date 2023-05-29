@@ -30,7 +30,7 @@ static variable is a variable that retains its value throughout the program's ex
 
 
 ## 💡Tips
-- [**understanding I**]([https://www.youtube.com/watch?v=xgDSXNOHTIA](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5)).
+- [**understanding I**](https://medium.com/@ayogun/master-file-i-o-operations-with-42s-get-next-line-project-5fb001d1fff5).
 - [**understanding II**](https://velog.io/@ljiwoo59/getnextline)
 - [**Handling a File by its Descriptor in C**](https://www.codequoi.com/en/handling-a-file-by-its-descriptor-in-c/).
 - [**Static Variables in C**](https://www.codequoi.com/en/local-global-static-variables-in-c/).
