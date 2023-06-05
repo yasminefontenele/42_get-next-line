@@ -125,6 +125,7 @@ int	main(void)
 	close(fd3);
 	return (0);
 }
+https://github.com/angealba/get_next_line42/tree/master
 
 #include <stdio.h>
 int main(void) {
