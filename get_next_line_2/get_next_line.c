@@ -17,14 +17,14 @@ char *ft_readed_line(char *text)
 	int i;
 	char *line;
 
-	if(!text || text[0] != '\n')
+	if(!text || text[0])
 		return (NULL);
 	i = 0;
-	while(text [i] && text[i] != '\n')
+	while(text[i] && text[i] != '\n')
 		i++;
 	if(text[i] == '\n')
 		i++;
-	line = (char *) malloc (sizeof(char) *i + 1);
+	line = (char *) malloc (sizeof(char) * i + 1);
 	if (!line)
 		return (NULL);
 	i = 0;
