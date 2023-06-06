@@ -9,7 +9,7 @@
 /*   Updated: 2023/06/02 09:45:23 by yfontene         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+https://github.com/angealba/get_next_line42/blob/master/get_next_line_bonus.h
 #include "get_next_line.h"
 
 char *ft_readed_line(char *text)
